@@ -1,49 +1,9 @@
 ---
-title: 'Chapter Title Here'
+title: 'Using Database Designed Properties'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
-
-```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
-```
-
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Insert exercise title here
+## Creating and Using Partitions
 
 ```yaml
 type: VideoExercise
@@ -53,3 +13,16 @@ xp: 50
 
 `@projector_key`
 e4b223bee539e6d0a30f790c7d66d19d
+
+---
+
+## Creating and Using Partitions
+
+```yaml
+type: VideoExercise
+key: 43d4ab37ac
+xp: 50
+```
+
+`@projector_key`
+36d87278623bdf08a11d40e81fcb06b0
