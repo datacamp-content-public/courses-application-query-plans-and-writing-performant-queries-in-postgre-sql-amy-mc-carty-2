@@ -1,4 +1,4 @@
-title: Course Title Here
+title: Application Query Plans and Writing Performant Queries in PostgreSQL Amy McCarty 2
 description: Course description goes here.
 programming_language: python
 from: python-base-prod:v1.0.2
