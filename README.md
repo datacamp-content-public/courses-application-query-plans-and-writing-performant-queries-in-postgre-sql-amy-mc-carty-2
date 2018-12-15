@@ -1,0 +1,1 @@
+# courses-application-query-plans-and-writing-performant-queries-in-postgre-sql-amy-mc-carty-2
